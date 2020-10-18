@@ -55,4 +55,3 @@ class ViewController: UIViewController {
         answerLabel.text = "PANNIC IS ON"
     }
 }
-
