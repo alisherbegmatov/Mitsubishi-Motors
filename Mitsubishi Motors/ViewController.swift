@@ -52,7 +52,6 @@ class ViewController: UIViewController {
     @IBAction func panicButtonTapped(_ sender: Any) {
         print("Pannic is on")
         
-        answerLabel.text = "PANNIC IS ON"
+        answerLabel.text = "PANIC IS ON"
     }
 }
-
